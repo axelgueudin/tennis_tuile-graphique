@@ -1,0 +1,18 @@
+choix typo 
+2 : une pour le titrage / une pour le texte 
+google fonts 
+
+filet = bloc 1 px 
+
+texte grand bloc 
+font size 16 - 18 px 
+utiliser typo safe 
+interlignage 1.5 em / 150% 
+magin bottom 1.5 em 
+pas plus de 80 signes par lignes / idéal 44 - 70 signes 
+
+éviter de mettre trop de blocs 
+
+couleurs CMJN = plus naturelles 
+
+renommer les couleurs pour faciliter pour le html 
