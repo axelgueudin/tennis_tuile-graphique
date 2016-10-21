@@ -4,4 +4,4 @@ Tuile graphique du site **ASRUC TENNIS**
 
 http://tennis.asrouenuc.com/
 
-*Update frequently*
+*Updated frequently*
